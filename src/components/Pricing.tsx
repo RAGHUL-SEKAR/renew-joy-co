@@ -50,7 +50,7 @@ const plans: Plan[] = [
     ],
     popular: true,
     cta: "Start free trial",
-    ctaLink: "/auth",
+    ctaLink: "/plan/pro",
     color: "teal",
     gradient: "bg-gradient-primary",
   },
