@@ -30,7 +30,7 @@ const plans: Plan[] = [
       "REST API access",
     ],
     cta: "Start free trial",
-    ctaLink: "/auth",
+    ctaLink: "/plan/starter",
     color: "emerald",
     gradient: "bg-gradient-emerald",
   },
