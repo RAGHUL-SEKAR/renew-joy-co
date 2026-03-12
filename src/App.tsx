@@ -7,6 +7,9 @@ import { AuthProvider } from "@/contexts/AuthContext";
 import Index from "./pages/Index";
 import Auth from "./pages/Auth";
 import Dashboard from "./pages/Dashboard";
+import PlanStarter from "./pages/PlanStarter";
+import PlanPro from "./pages/PlanPro";
+import PlanEnterprise from "./pages/PlanEnterprise";
 import ProtectedRoute from "./components/ProtectedRoute";
 import NotFound from "./pages/NotFound";
 
