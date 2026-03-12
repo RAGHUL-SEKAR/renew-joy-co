@@ -71,7 +71,7 @@ const plans: Plan[] = [
       "SLA guarantee (99.99%)",
     ],
     cta: "Contact sales",
-    ctaLink: "/auth",
+    ctaLink: "/plan/enterprise",
     color: "violet",
     gradient: "bg-gradient-violet",
   },
